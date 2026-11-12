@@ -1,4 +1,4 @@
-# Riverbank Dynamics (erosion and accretion) Prediction Using Machine Learning
+# Riverbank Erosion and Accretion Prediction Using Machine Learning
 
 ## Project Overview
 
